@@ -1,4 +1,4 @@
-# Linear-Regression
+# Maximum Likelihood Estimation for a Gaussian Distribution
 
 README Program for Programming Question 1 and 2 in Assignment 1:
 
